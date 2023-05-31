@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fate Launchpad", "Fate Launchpad\Fate Launchpad.csproj", "{07E61677-D162-4C79-BD28-8EE648CC7E51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E61677-D162-4C79-BD28-8EE648CC7E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E61677-D162-4C79-BD28-8EE648CC7E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E61677-D162-4C79-BD28-8EE648CC7E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E61677-D162-4C79-BD28-8EE648CC7E51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35EB6823-9F77-47FF-ADFC-3D5753998B7A}
+	EndGlobalSection
+EndGlobal
